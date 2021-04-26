@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 2100.234234234,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 3150.12312412,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 4200.51524,
+      "article": "T3",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 5300.1245512,
+      "article": "T4",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 6500.3522314,
+      "article": "T5",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "6.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 3500.3522314,
+      "article": "T6",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "7.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 6100.3522314,
+      "article": "T7",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "8.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 4500.3522314,
+      "article": "T8",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 3500.3522314,
+      "article": "T9",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 6400.3522314,
+      "article": "T10",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 1500.3522314,
+      "article": "T11",
+      "available": false,
+      "category": "Мужские"
+    },
+    {
+      "image": "8.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 1500.3522314,
+      "article": "T12",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 8500.3522314,
+      "article": "T13",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 9500.3522314,
+      "article": "T14",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Краска Wallquest, Brownsone MS90102",
+      "price": 9500.3522314,
+      "article": "T15",
+      "available": false,
+      "category": "Женские"
+    }
+  ]
+}
